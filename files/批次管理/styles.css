@@ -9577,3 +9577,36 @@
   width:180px;
   word-wrap:break-word;
 }
+#u448_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:28px;
+  height:28px;
+}
+#u448 {
+  border-width:0px;
+  position:absolute;
+  left:951px;
+  top:505px;
+  width:23px;
+  height:23px;
+}
+#u448_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u448_ann {
+  border-width:0px;
+  position:absolute;
+  left:967px;
+  top:501px;
+  width:1px;
+  height:1px;
+}
